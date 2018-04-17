@@ -1,0 +1,32 @@
+3/24/18 9:50PM 
+	- Officially done
+	
+--------------------------------------------------
+3/30/18 8:52PM 
+	- Added A New Function (Macro.java)
+		- Can now level heroes with Wepwawet being the strongest (ClickerHeroes.java)
+
+--------------------------------------------------------------------
+3/31/18 8:26PM 
+	- Added A New Function (Macro.java)
+		- Can now level heroes with Tsuchi being the strongest (ClickerHeroes.java)
+	
+	- Updated Instructions and Requirements. (ClickerHeroes.java)
+		- Rewording of Requirements
+		- Added a new instruction to follow
+
+---------------------------------------------------------------------- 
+4/6/18 7:41PM
+	- Added A New Function (Macro.java)
+		- Can now level heroes with Gog being the strongest (ClickerHeroes.java)
+
+-------------------------------------------------------------------------------------
+4/08/18
+	- Added a New Function (Macro.java)
+		- Can now level heroes with Skogur being the strongest 
+	- Can now use levelHeroesSkogur() (ClickerHeroes.java)
+	- Added a New Function (Macro.java)
+		- Can now level heroes to MAX (10,000) level
+	- Delete function of Clicking on Ancient tab in Kepow website. (lags too hard on the website to use) User must make sure to be on 
+		the Ancient tab themselves (Kepow has this on by default) (Macro.java)
+	- Updated Instructions (ClickerHeroes.java)
